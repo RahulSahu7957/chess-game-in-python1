@@ -1,4 +1,5 @@
 '''
+created by Roll number 5,39,49
 PIECE AND COLOR BITMASK = 0bCPPP
 where:
 C - color
